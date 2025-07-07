@@ -157,7 +157,7 @@ Make sure changes are documented and tested.
 
 ## 📄 License
 
-This project is licensed under the **MIT License**.  
+This project is open for **learning and personal use**.  
 
 ---
 
